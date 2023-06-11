@@ -1,4 +1,1 @@
-# Author
-
-## Yan Hao
-## Xi Pang
+# None
